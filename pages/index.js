@@ -157,7 +157,7 @@ function CampaignCard({
                 <Text as="span" fontWeight={"bold"}>
                   {balance > 0
                     ? web3.utils.fromWei(balance, "ether")
-                    : "0, Become a Donor 😄"}
+                    : "0, Become a CrowdFunder"}
                 </Text>
                 <Text
                   as="span"
