@@ -232,7 +232,8 @@ export default function Home({ campaigns }) {
           name="description"
           content="Transparent Crowdfunding in Blockchain"
         />
-        <link rel="icon" href="/logo.svg" />
+        <link rel="icon" href="https://www.online-convert.com/result#j=af841140-17ff-4c29-8879-e30f03e5b9dc
+https://www48.online-convert.com/dl/web7/download-file/7a406bd6-1cf5-4005-aadc-bf7e4597dd59/Screenshot%202022-04-07%20at%206.44.19%20PM.png" />
       </Head>
       <main className={styles.main}>
         <Container py={{ base: "4", md: "12" }} maxW={"7xl"} align={"left"}>
