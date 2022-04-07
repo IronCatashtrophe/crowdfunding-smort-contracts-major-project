@@ -244,7 +244,7 @@ export default function Home({ campaigns }) {
             as="h1"
             py={4}
           >
-            Crowdfunding using the powers of <br /> Crypto & Blockchain 😄{" "}
+            Crowdfunding using the powers of <br /> Ethereum & its powerful blockchain {" "}
           </Heading>
           <NextLink href="/campaign/new">
             <Button
