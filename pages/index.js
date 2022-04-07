@@ -333,7 +333,7 @@ export default function Home({ campaigns }) {
             For any queries raise an issue on{" "}
             <Link
               color="teal.500"
-              href="https://github.com/harsh242/betterfund-crowdfunding-in-blockchain/issues"
+              href="https://github.com/IronCatashtrophe/crowdfunding-smort-contracts-major-project/issues"
               isExternal
             >
               the Github Repo <ExternalLinkIcon mx="2px" />
