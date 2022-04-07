@@ -311,14 +311,14 @@ export default function Home({ campaigns }) {
               icon={<Icon as={FcDonate} w={10} h={10} />}
               title={"Create a Campaign for Fundraising"}
               text={
-                "It’ll take only 2 minutes. Just enter a few details about the funds you are raising for."
+                "It only takes 2 minutes. Enter key details about the funds you are raising for."
               }
             />
             <Feature
               icon={<Icon as={FcShare} w={10} h={10} />}
               title={"Share your Campaign"}
               text={
-                "All you need to do is share the Campaign with your friends, family and others. In no time, support will start pouring in."
+                "All you need to do is share the Campaign with your friends, family and potential investors. In no time, support will start pouring in through the blockchain."
               }
             />
             <Feature
